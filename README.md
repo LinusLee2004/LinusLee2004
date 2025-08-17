@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: linuslee2123@gmail.com or visit my linkedin profile https://www.linkedin.com/in/linus-lee-profile/
+- ⚡ Fun fact: I love Star Wars and football!
 <!--
 **LinusLee2004/LinusLee2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
