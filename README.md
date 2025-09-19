@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on leetcode practices
+- 🌱 I’m currently learning web development using C
 - 📫 How to reach me: linuslee2123@gmail.com or visit my linkedin profile https://www.linkedin.com/in/linus-lee-profile/
 - ⚡ Fun fact: I love Star Wars and football!
 <!--
